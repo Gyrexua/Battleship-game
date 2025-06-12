@@ -1,6 +1,6 @@
 # Battleship-game
 
-Features:
+   Features:
 -Player and the opponent each have a 10x10 grid
 
 -Player places their ships manually
@@ -9,7 +9,8 @@ Features:
 
 -The game state is stored in shared memory
 
-Technologies Used:
+   Technologies Used:
+
 .NET 8.0 (Windows Forms)
 
 C#
