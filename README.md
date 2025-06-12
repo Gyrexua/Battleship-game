@@ -1,6 +1,7 @@
 # Battleship-game
 
    Features:
+   
 -Player and the opponent each have a 10x10 grid
 
 -Player places their ships manually
