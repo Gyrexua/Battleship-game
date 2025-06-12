@@ -1,0 +1,16 @@
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\bin\Debug\net8.0-windows\course.exe
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\bin\Debug\net8.0-windows\course.deps.json
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\bin\Debug\net8.0-windows\course.runtimeconfig.json
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\bin\Debug\net8.0-windows\course.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\bin\Debug\net8.0-windows\course.pdb
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\obj\Debug\net8.0-windows\course.Form1.resources
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\obj\Debug\net8.0-windows\course.csproj.GenerateResource.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\obj\Debug\net8.0-windows\course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\obj\Debug\net8.0-windows\course.AssemblyInfoInputs.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\obj\Debug\net8.0-windows\course.AssemblyInfo.cs
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\obj\Debug\net8.0-windows\course.csproj.CoreCompileInputs.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\obj\Debug\net8.0-windows\course.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\obj\Debug\net8.0-windows\refint\course.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\obj\Debug\net8.0-windows\course.pdb
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\obj\Debug\net8.0-windows\course.genruntimeconfig.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\course\obj\Debug\net8.0-windows\ref\course.dll

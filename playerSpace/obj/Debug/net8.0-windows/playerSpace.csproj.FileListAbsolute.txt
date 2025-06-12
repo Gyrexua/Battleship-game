@@ -1,0 +1,16 @@
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\obj\Debug\net8.0-windows\playerSpace.Form1.resources
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\obj\Debug\net8.0-windows\playerSpace.csproj.GenerateResource.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\obj\Debug\net8.0-windows\playerSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\obj\Debug\net8.0-windows\playerSpace.AssemblyInfoInputs.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\obj\Debug\net8.0-windows\playerSpace.AssemblyInfo.cs
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\obj\Debug\net8.0-windows\playerSpace.csproj.CoreCompileInputs.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\bin\Debug\net8.0-windows\playerSpace.exe
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\bin\Debug\net8.0-windows\playerSpace.deps.json
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\bin\Debug\net8.0-windows\playerSpace.runtimeconfig.json
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\bin\Debug\net8.0-windows\playerSpace.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\bin\Debug\net8.0-windows\playerSpace.pdb
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\obj\Debug\net8.0-windows\playerSpace.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\obj\Debug\net8.0-windows\refint\playerSpace.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\obj\Debug\net8.0-windows\playerSpace.pdb
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\obj\Debug\net8.0-windows\playerSpace.genruntimeconfig.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\playerSpace\obj\Debug\net8.0-windows\ref\playerSpace.dll

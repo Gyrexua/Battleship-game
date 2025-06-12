@@ -1,0 +1,16 @@
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\bin\Debug\net8.0-windows\enemySpace.exe
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\bin\Debug\net8.0-windows\enemySpace.deps.json
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\bin\Debug\net8.0-windows\enemySpace.runtimeconfig.json
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\bin\Debug\net8.0-windows\enemySpace.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\bin\Debug\net8.0-windows\enemySpace.pdb
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\obj\Debug\net8.0-windows\enemySpace.Form1.resources
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\obj\Debug\net8.0-windows\enemySpace.csproj.GenerateResource.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\obj\Debug\net8.0-windows\enemySpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\obj\Debug\net8.0-windows\enemySpace.AssemblyInfoInputs.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\obj\Debug\net8.0-windows\enemySpace.AssemblyInfo.cs
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\obj\Debug\net8.0-windows\enemySpace.csproj.CoreCompileInputs.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\obj\Debug\net8.0-windows\enemySpace.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\obj\Debug\net8.0-windows\refint\enemySpace.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\obj\Debug\net8.0-windows\enemySpace.pdb
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\obj\Debug\net8.0-windows\enemySpace.genruntimeconfig.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemySpace\obj\Debug\net8.0-windows\ref\enemySpace.dll

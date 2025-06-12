@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4gK0ieHOwjQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\уник\\2 семестр\\C#\\lab8\\course\\enemyShips\\enemyShips.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gyrex\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\Gyrex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\Gyrex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\Gyrex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.16\\microsoft.netcore.app.host.win-x64.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

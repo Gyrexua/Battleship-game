@@ -1,0 +1,16 @@
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\bin\Debug\net8.0-windows\enemyShips.exe
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\bin\Debug\net8.0-windows\enemyShips.deps.json
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\bin\Debug\net8.0-windows\enemyShips.runtimeconfig.json
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\bin\Debug\net8.0-windows\enemyShips.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\bin\Debug\net8.0-windows\enemyShips.pdb
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\obj\Debug\net8.0-windows\enemyShips.Form1.resources
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\obj\Debug\net8.0-windows\enemyShips.csproj.GenerateResource.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\obj\Debug\net8.0-windows\enemyShips.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\obj\Debug\net8.0-windows\enemyShips.AssemblyInfoInputs.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\obj\Debug\net8.0-windows\enemyShips.AssemblyInfo.cs
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\obj\Debug\net8.0-windows\enemyShips.csproj.CoreCompileInputs.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\obj\Debug\net8.0-windows\enemyShips.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\obj\Debug\net8.0-windows\refint\enemyShips.dll
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\obj\Debug\net8.0-windows\enemyShips.pdb
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\obj\Debug\net8.0-windows\enemyShips.genruntimeconfig.cache
+C:\Users\Gyrex\OneDrive\Desktop\уник\C#\lab8\course\enemyShips\obj\Debug\net8.0-windows\ref\enemyShips.dll

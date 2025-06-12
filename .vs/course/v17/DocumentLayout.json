@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F8051-D118-44E6-9728-3B267FA9BC0D}|playerSpace\\playerSpace.csproj|c:\\users\\gyrex\\onedrive\\desktop\\\u0443\u043D\u0438\u043A\\c#\\lab8\\course\\playerspace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F8051-D118-44E6-9728-3B267FA9BC0D}|playerSpace\\playerSpace.csproj|solutionrelative:playerspace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10210319-9481-454A-8BDE-7BD488FDF195}|course\\course.csproj|c:\\users\\gyrex\\onedrive\\desktop\\\u0443\u043D\u0438\u043A\\c#\\lab8\\course\\course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10210319-9481-454A-8BDE-7BD488FDF195}|course\\course.csproj|solutionrelative:course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4765E805-783A-41B9-A879-0AA093A68B35}|enemyShips\\enemyShips.csproj|c:\\users\\gyrex\\onedrive\\desktop\\\u0443\u043D\u0438\u043A\\c#\\lab8\\course\\enemyships\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4765E805-783A-41B9-A879-0AA093A68B35}|enemyShips\\enemyShips.csproj|solutionrelative:enemyships\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4765E805-783A-41B9-A879-0AA093A68B35}|enemyShips\\enemyShips.csproj|C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\enemyships\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4765E805-783A-41B9-A879-0AA093A68B35}|enemyShips\\enemyShips.csproj|solutionrelative:enemyships\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F8051-D118-44E6-9728-3B267FA9BC0D}|playerSpace\\playerSpace.csproj|C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\playerspace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C3F8051-D118-44E6-9728-3B267FA9BC0D}|playerSpace\\playerSpace.csproj|solutionrelative:playerspace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A504A52A-CE29-4CE4-B466-8AD1DB5853B9}|enemySpace\\enemySpace.csproj|c:\\users\\gyrex\\onedrive\\desktop\\\u0443\u043D\u0438\u043A\\c#\\lab8\\course\\enemyspace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A504A52A-CE29-4CE4-B466-8AD1DB5853B9}|enemySpace\\enemySpace.csproj|solutionrelative:enemyspace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A504A52A-CE29-4CE4-B466-8AD1DB5853B9}|enemySpace\\enemySpace.csproj|c:\\users\\gyrex\\onedrive\\desktop\\\u0443\u043D\u0438\u043A\\c#\\lab8\\course\\enemyspace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A504A52A-CE29-4CE4-B466-8AD1DB5853B9}|enemySpace\\enemySpace.csproj|solutionrelative:enemyspace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10210319-9481-454A-8BDE-7BD488FDF195}|course\\course.csproj|C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10210319-9481-454A-8BDE-7BD488FDF195}|course\\course.csproj|solutionrelative:course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\course\\Form1.cs",
+              "RelativeDocumentMoniker": "course\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\course\\Form1.cs",
+              "RelativeToolTip": "course\\Form1.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwPwBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:13:49.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\course\\Form1.cs",
+              "RelativeDocumentMoniker": "course\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\course\\Form1.cs [Design]",
+              "RelativeToolTip": "course\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:58:37.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\playerSpace\\Form1.cs",
+              "RelativeDocumentMoniker": "playerSpace\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\playerSpace\\Form1.cs",
+              "RelativeToolTip": "playerSpace\\Form1.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAMEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:12:57.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\playerSpace\\Form1.cs",
+              "RelativeDocumentMoniker": "playerSpace\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\playerSpace\\Form1.cs [Design]",
+              "RelativeToolTip": "playerSpace\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:12:37.83Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\enemySpace\\Form1.cs",
+              "RelativeDocumentMoniker": "enemySpace\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\enemySpace\\Form1.cs",
+              "RelativeToolTip": "enemySpace\\Form1.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAIwOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:01:59.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\enemySpace\\Form1.cs",
+              "RelativeDocumentMoniker": "enemySpace\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\enemySpace\\Form1.cs [Design]",
+              "RelativeToolTip": "enemySpace\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:03:09.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\enemyShips\\Form1.cs",
+              "RelativeDocumentMoniker": "enemyShips\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\enemyShips\\Form1.cs",
+              "RelativeToolTip": "enemyShips\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwIkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:43:20.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\enemyShips\\Form1.cs",
+              "RelativeDocumentMoniker": "enemyShips\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gyrex\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\C#\\lab8\\course\\enemyShips\\Form1.cs [Design]",
+              "RelativeToolTip": "enemyShips\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:42:43.666Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
